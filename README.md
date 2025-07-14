@@ -20,5 +20,5 @@ A full-stack Notes App built with Flask, SQLite3, and SQLAlchemy that allows use
 - **Templating Engine:** Jinja2
 - **Styling:** Bootstrap 5
 
-## Directory Structure
+
 
